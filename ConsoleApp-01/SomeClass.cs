@@ -8,5 +8,9 @@ namespace ConsoleApp_01
 {
     public class SomeClass
     {
+        public SomeClass()
+        {
+
+        }
     }
 }
