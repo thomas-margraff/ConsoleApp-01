@@ -10,7 +10,7 @@ namespace ConsoleApp_01
     {
         public SomeClass()
         {
-
+            // comment in the constructor
         }
     }
 }
